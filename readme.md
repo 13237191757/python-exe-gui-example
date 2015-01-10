@@ -1,8 +1,9 @@
-#Python Command line Executable App Example
+#Python GUI Executable App Example
 
 This example evaluates the various packages that can be used to 
 generate a standalone python executable App in windows.
-The base of this example is a simple program that prints some text in the command line.
+Similar to the [Command line App example](https://github.com/boseji/python-exe-commandline-example) this 
+is the GUI version. It uses TCL/TK to create a basic main window demonstarting a simple GUI app.
 
 ## Python Version
 
